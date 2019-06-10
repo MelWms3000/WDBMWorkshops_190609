@@ -1474,12 +1474,12 @@ body {
 }
 .cid-rsVrfSWaYJ .navbar {
   padding: .5rem 0;
-  background: #3369e8;
+  background: #5580ff;
   transition: none;
   min-height: 50px;
 }
 .cid-rsVrfSWaYJ .navbar-dropdown.bg-color.transparent.opened {
-  background: #3369e8;
+  background: #5580ff;
 }
 .cid-rsVrfSWaYJ a {
   font-style: normal;
@@ -1747,7 +1747,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rsVrfSWaYJ .dropdown .dropdown-menu {
-  background: #3369e8;
+  background: #5580ff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2090,7 +2090,7 @@ body {
 }
 .cid-rsVrfSWaYJ .dropdown-item.active,
 .cid-rsVrfSWaYJ .dropdown-item:active {
-  background: #3369e8;
+  background: #5580ff;
   color: initial;
 }
 .cid-rsVrfSWaYJ .nav-link:hover,
@@ -2105,7 +2105,7 @@ body {
   color: #eeb211;
 }
 .cid-rsVrmqFTzH {
-  padding-top: 180px;
+  padding-top: 345px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
@@ -2122,7 +2122,7 @@ body {
 .cid-rsVrmqFTzH #e3_circle,
 .cid-rsVrmqFTzH #e4_circle,
 .cid-rsVrmqFTzH #e5_circle {
-  fill: #3369e8 !important;
+  fill: #86affe !important;
 }
 .cid-rsVrmqFTzH #e6_circle {
   fill: #3369e8 !important;
@@ -2146,7 +2146,7 @@ body {
 .cid-rsVrmqFTzH .round {
   border-radius: 100%;
   position: absolute;
-  background-color: #3369e8;
+  background-color: #86affe;
   animation: orbit 4s linear infinite;
 }
 .cid-rsVrmqFTzH .rev {
@@ -2219,11 +2219,11 @@ body {
   top: 35%;
 }
 .cid-rsVrmqFTzH H1 {
-  color: #232323;
+  color: #000000;
 }
 .cid-rsVrmqFTzH .mbr-text,
 .cid-rsVrmqFTzH .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rsVrmqFTzH H3 {
   color: #716c80;
@@ -2442,12 +2442,12 @@ body {
 }
 .cid-rsVrfSWaYJ .navbar {
   padding: .5rem 0;
-  background: #3369e8;
+  background: #5580ff;
   transition: none;
   min-height: 50px;
 }
 .cid-rsVrfSWaYJ .navbar-dropdown.bg-color.transparent.opened {
-  background: #3369e8;
+  background: #5580ff;
 }
 .cid-rsVrfSWaYJ a {
   font-style: normal;
@@ -2715,7 +2715,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rsVrfSWaYJ .dropdown .dropdown-menu {
-  background: #3369e8;
+  background: #5580ff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3058,7 +3058,7 @@ body {
 }
 .cid-rsVrfSWaYJ .dropdown-item.active,
 .cid-rsVrfSWaYJ .dropdown-item:active {
-  background: #3369e8;
+  background: #5580ff;
   color: initial;
 }
 .cid-rsVrfSWaYJ .nav-link:hover,
