@@ -520,10 +520,10 @@ a.text-black:hover,
 a.text-black:focus {
   color: #4d4d4d !important;
 }
-a[class^=text-] {
+section:not(.menu) a[class*=text-] {
   position: relative;
 }
-a[class^=text-]:after {
+section:not(.menu) a[class*=text-]:after {
   content: "";
   transition: all 0.3s;
   border-bottom: 1px solid currentColor;
@@ -532,7 +532,7 @@ a[class^=text-]:after {
   left: 0;
   width: 0;
 }
-a[class^=text-]:hover:after {
+section:not(.menu) a[class*=text-]:hover:after {
   width: 100%;
 }
 .alert-success {
